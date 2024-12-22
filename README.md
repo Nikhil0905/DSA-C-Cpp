@@ -1,5 +1,5 @@
 C++;
 This file is all about Data Structure and Algorithms.
-It contains various Questions which are asked by Top MNCs.
+It contains various Questions that Top MNCs ask.
 It even contains my class notes and Pattern problems.
-It took me arount Six(6) months to complete my DSA in C++.
+It took me around Six(10) months to complete my DSA in C++.
