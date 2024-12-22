@@ -1,0 +1,10 @@
+Hii! What's up?
+How it going?
+Today I had my End Term Practical of DBMS.
+I stated the test and around 50 mins were given to complete the Exam.
+I successfully ran both the queries in 7 mins(Thala For a Reason).
+Then I had to complete 10 mcqs which were kind of easy.
+But then came the tricky part, Answering questions on paper.
+The first question asked for an explanation of how SQL works with Database Management Systems (DBMS) - 
+It is like asking someone to explain the working
+The question was "What is the difference between SQL Server and Oracle?"
